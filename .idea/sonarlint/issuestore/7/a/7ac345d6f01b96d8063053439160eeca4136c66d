@@ -1,0 +1,17 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(é“šÂ
+t
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßô¹æüÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+<
+java:S1452"&Remove usage of generic wildcard type.(ÚïýÀ
+J
+java:S2221"4Catch a list of specific exception subtypes instead.(”ý¾
+A
+java:S1452 "&Remove usage of generic wildcard type.(ðèžìúÿÿÿÿ
+A
+java:S14521"&Remove usage of generic wildcard type.(Ë÷Œøùÿÿÿÿ
